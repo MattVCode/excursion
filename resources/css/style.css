@@ -40,3 +40,6 @@ font-family: Verdana, Geneva, Tahoma, sans-serif ;
     color: gray;
     text-align: right;
 }   
+div.center {
+    text-align: center;
+}
